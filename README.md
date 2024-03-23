@@ -1,6 +1,5 @@
-# **Data Scientist**
+# **Data Scientist*
 
-# Data Silence's Portfolio
 
 ## About Me
 
