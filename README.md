@@ -3,66 +3,75 @@
 # *Data Scientist*
 
 
-
-
 ## Introduction
 
-A dedicated data scientist with a strong background in machine learning and deep learning. My passion lies in leveraging data to drive insights and solve complex problems. Welcome to my portfolio!
+Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Developer based in Winnipeg, MB. With a solid foundation in data science, machine learning, and full-stack development, I excel at turning complex data into actionable insights and innovative solutions.
 
 ## Contact Information
 
-- **Location**: Winnipeg, MB, CA
-- **Email**: aehaddadd@gmail.com
+- **Location**: Winnipeg, MB
+- **Email**: [haddad-90@hotmail.com](mailto:haddad-90@hotmail.com)
+- **GitHub**: [Your GitHub Profile URL](https://github.com/haddad142)
 
 ## Technical Skills
 
-- **Programming Languages**: Python, Java, SQL
-- **Machine Learning Libraries**: TensorFlow, PyTorch, scikit-learn
-- **Data Visualization Tools**: Matplotlib, Seaborn, Plotly
-- **Databases**: MySQL, MongoDB
-- **Other Tools**: Git, Docker
+- **Programming Languages**: Python, Java, SQL, Neo4j Cypher
+- **Machine Learning Libraries**: scikit-learn, TensorFlow, Keras
+- **Data Visualization Tools**: Matplotlib, Seaborn
+- **Databases**: SQL, NoSQL
+- **Cloud Platforms**: AWS, Azure
+- **Other Skills**: Full Stack Development (Java, HTML, CSS, JavaScript), Deep Learning, Computer Vision
 
 ## Education
 
-- **Data Science and Machine Learning**, Red River College Polytechnic, 2024
-  - Relevant Courses: Machine Learning, Data Structures, Deep Learning
+- **Data Science and Machine Learning**, Red River College Polytechnic, Winnipeg, Aug 2022 – April 2024
+- **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg, January 2020 - April 2020
 
 ## Projects
 
-### Project 1: [Soccer Prediction](https://github.com/haddad142/soccer_prediction)
-- **Overview**: Brief description of the project.
-- **Technologies Used**: Python, TensorFlow, Keras
-- **Outcome**: Achievements or key results.
-- **GitHub Link**: [URL to the project]
+### Predict Soccer Players Market Value
+- **Technologies Used**: Python, SVMs, Decision Trees
+- **Outcome**: Achieved a 79% accuracy rate with the Decision Tree model.
 
-### Project 2: [Project Title]
-- **Overview**: Brief description of the project.
-- **Technologies Used**: Python, PyTorch, scikit-learn
-- **Outcome**: Achievements or key results.
-- **GitHub Link**: [URL to the project]
+### Deep Learning for Sequences (Stock Price Prediction)
+- **Technologies Used**: Python, Time-Series Analysis
+- **Outcome**: Generated accurate stock price predictions 57% of the time.
+
+### Image Classification with Convolutional Neural Networks
+- **Technologies Used**: TensorFlow, Keras
+- **Outcome**: Demonstrated proficiency in CNNs, achieving robust image classification performance.
+
+### Enterprise Platform for Nanotechnology (ongoing)
+- **Technologies Used**: Next.js, Python, Django, Neo4j Cypher
+- **Outcome**: Developing an enterprise platform to enhance therapeutics using nanotechnology.
 
 ## Work Experience
 
-- **[Job Title]**, [Company Name] ([Dates])
-  - Description of your role and responsibilities.
-  - Key achievements or projects you contributed to.
+- **Programmer Analyst 1 Intern**, City Of Winnipeg, May 2023 – Sept 2023
+- **N95 FIT TESTER**, Shared Health, Sept 2020 – Sept 2022
+- **Video Editor**, Douglas Mennonite Church, July 2021 – Sept 2023
+- **Manager**, Maggi’s Restaurant, April 2019 – Nov. 2019
+- **Courier**, SkipTheDishes, May 2019 - April 2019
+- **Audio Technician**, Self Employed, Syria, Jordan, 2011 – 2018
 
-## Certifications
+## Training & Professional Development
 
-- **Certified Data Scientist**, [Issuing Organization], [Year]
-- **Machine Learning Engineer Certification**, [Issuing Organization], [Year]
+- **Udemy**: Courses on Next.js and Neo4j Cypher
+- **Harvard University**: CS50 Introduction to Computer Science
+- **App Brewery**: Flutter Developer
+- **Udacity**: Full Stack Python Developer
 
 ## Volunteer Experience
 
-- **[Role]**, [Organization] ([Dates])
-  - Description of your volunteer work and contributions.
+- **The Salvation Army**, Winnipeg, June - August 2018
+- **Entry Program**, Winnipeg, March - April 2018
 
-## Additional Information
+## Interests
 
-- Languages: [List any additional languages you speak]
-- Interests: [Your hobbies or interests outside of work]
+Ethical Hacking, Reverse Engineering, LLM (Large Language Models), Deep Learning, Computer Vision, and AI.
 
-Thank you for visiting my portfolio. I'm excited about opportunities in data science and machine learning, and I look forward to connecting with you!
+Thank you for visiting my portfolio. I am eager to contribute to projects and roles that leverage my expertise in data science, machine learning, and development to create impactful solutions.
+
 
 
 
