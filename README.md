@@ -12,7 +12,7 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 
 - **Location**: Winnipeg, MB
 - **Email**: [haddad-90@hotmail.com](mailto:haddad-90@hotmail.com)
-- **GitHub**: [Your GitHub Profile URL](https://github.com/haddad142)
+- **GitHub**: [Atallah Haddad on GitHub](https://github.com/haddad142)
 
 ## Technical Skills
 
