@@ -4,15 +4,19 @@
 # *Data Scientist*
 ---
 
+
 ## Introduction
 ---
 Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Developer based in Winnipeg, MB. With a solid foundation in data science, machine learning, and full-stack development, I excel at turning complex data into actionable insights and innovative solutions.
+
 
 ## Contact Information
 ---
 - **Location**: Winnipeg, MB
 - **Email**: [haddad-90@hotmail.com](mailto:haddad-90@hotmail.com)
 - **GitHub**: <a href="https://github.com/haddad142" target="_blank">Atallah Haddad on GitHub</a>
+
+
 ## Technical Skills
 ---
 - **Programming Languages**: Python, Java, SQL, Neo4j Cypher
@@ -22,10 +26,12 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 - **Cloud Platforms**: AWS, Azure
 - **Other Skills**: Full Stack Development (Java, HTML, CSS, JavaScript), Deep Learning.
 
+
 ## Education
 ---
 - **Data Science and Machine Learning**, Red River College Polytechnic, Winnipeg.
 - **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg.
+
 
 ## Projects
 ---
@@ -44,11 +50,13 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 - **App Brewery**: Flutter Developer
 - **Udacity**: Full Stack Python Developer
 
+
 ## Volunteer Experience
 ---
 - **The Salvation Army**, Winnipeg.
 - **Entry Program**, Winnipeg.
----
+
+
 ## Interests
 ---
 Ethical Hacking, Reverse Engineering, LLM (Large Language Models), Deep Learning, Computer Vision, and AI.
