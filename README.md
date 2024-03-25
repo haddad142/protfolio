@@ -64,7 +64,7 @@ Ethical Hacking, Reverse Engineering, LLM (Large Language Models), Deep Learning
 
 
 
-
-Thank you for visiting my portfolio. I am eager to contribute to projects and roles that leverage my expertise in data science, machine learning, and development to create impactful solutions.
+<br><br><br> <!-- Line breaks for space -->
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><small>Thank you for visiting my portfolio. I am eager to contribute to projects and roles that leverage my expertise in data science, machine learning, and development to create impactful solutions.</small></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>Atallah Haddad Data Scientist</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
