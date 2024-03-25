@@ -31,6 +31,7 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 ## Projects
 
 ### - [Soccer Prediction](https://github.com/haddad142/soccer_prediction)
+### - <a href="https://github.com/haddad142/soccer_prediction" target="_blank">Soccer Prediction</a>
 
 
 ## Work Experience
