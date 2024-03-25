@@ -21,39 +21,21 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 - **Data Visualization Tools**: Matplotlib, Seaborn
 - **Databases**: SQL, NoSQL
 - **Cloud Platforms**: AWS, Azure
-- **Other Skills**: Full Stack Development (Java, HTML, CSS, JavaScript), Deep Learning, Computer Vision
+- **Other Skills**: Full Stack Development (Java, HTML, CSS, JavaScript), Deep Learning.
 
 ## Education
 
-- **Data Science and Machine Learning**, Red River College Polytechnic, Winnipeg, Aug 2022 – April 2024
-- **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg, January 2020 - April 2020
+- **Data Science and Machine Learning**, Red River College Polytechnic, Winnipeg.
+- **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg.
 
 ## Projects
 
-### Predict Soccer Players Market Value
-- **Technologies Used**: Python, SVMs, Decision Trees
-- **Outcome**: Achieved a 79% accuracy rate with the Decision Tree model.
+### [Soccer Prediction](https://github.com/haddad142/soccer_prediction)
 
-### Deep Learning for Sequences (Stock Price Prediction)
-- **Technologies Used**: Python, Time-Series Analysis
-- **Outcome**: Generated accurate stock price predictions 57% of the time.
-
-### Image Classification with Convolutional Neural Networks
-- **Technologies Used**: TensorFlow, Keras
-- **Outcome**: Demonstrated proficiency in CNNs, achieving robust image classification performance.
-
-### Enterprise Platform for Nanotechnology (ongoing)
-- **Technologies Used**: Next.js, Python, Django, Neo4j Cypher
-- **Outcome**: Developing an enterprise platform to enhance therapeutics using nanotechnology.
 
 ## Work Experience
 
-- **Programmer Analyst 1 Intern**, City Of Winnipeg, May 2023 – Sept 2023
-- **N95 FIT TESTER**, Shared Health, Sept 2020 – Sept 2022
-- **Video Editor**, Douglas Mennonite Church, July 2021 – Sept 2023
-- **Manager**, Maggi’s Restaurant, April 2019 – Nov. 2019
-- **Courier**, SkipTheDishes, May 2019 - April 2019
-- **Audio Technician**, Self Employed, Syria, Jordan, 2011 – 2018
+- **Programmer Analyst 1 Intern**, City Of Winnipeg.
 
 ## Training & Professional Development
 
@@ -64,8 +46,8 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 
 ## Volunteer Experience
 
-- **The Salvation Army**, Winnipeg, June - August 2018
-- **Entry Program**, Winnipeg, March - April 2018
+- **The Salvation Army**, Winnipeg.
+- **Entry Program**, Winnipeg.
 
 ## Interests
 
@@ -73,27 +55,4 @@ Ethical Hacking, Reverse Engineering, LLM (Large Language Models), Deep Learning
 
 Thank you for visiting my portfolio. I am eager to contribute to projects and roles that leverage my expertise in data science, machine learning, and development to create impactful solutions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Projects
-[Soccer Prediction](https://github.com/haddad142/soccer_prediction)
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>Atallah Haddad Data Scientist</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
