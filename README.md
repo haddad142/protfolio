@@ -2,8 +2,9 @@
 ### (please note that I am still working on my protfolio)
 
 # *Data Scientist*
+<p style="margin-top: -15px;"></p>
 ---
-<p style="margin-top: -50px;"></p>
+
 
 ## Introduction
 ---
