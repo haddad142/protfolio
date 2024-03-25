@@ -7,11 +7,13 @@
 
 
 ## Introduction
+<p style="margin-top: -15px;"></p>
 ---
 Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Developer based in Winnipeg, MB. With a solid foundation in data science, machine learning, and full-stack development, I excel at turning complex data into actionable insights and innovative solutions.
 
 
 ## Contact Information
+<p style="margin-top: -15px;"></p>
 ---
 - **Location**: Winnipeg, MB
 - **Email**: [haddad-90@hotmail.com](mailto:haddad-90@hotmail.com)
@@ -19,6 +21,7 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 
 
 ## Technical Skills
+<p style="margin-top: -15px;"></p>
 ---
 - **Programming Languages**: Python, Java, SQL, Neo4j Cypher
 - **Machine Learning Libraries**: scikit-learn, TensorFlow, Keras
@@ -29,22 +32,26 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 
 
 ## Education
+<p style="margin-top: -15px;"></p>
 ---
 - **Data Science and Machine Learning**, Red River College Polytechnic, Winnipeg.
 - **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg.
 
 
 ## Projects
+<p style="margin-top: -15px;"></p>
 ---
 ### 1- <a href="https://github.com/haddad142/soccer_prediction" target="_blank">Soccer Prediction</a>
 
 
 ## Work Experience
+<p style="margin-top: -15px;"></p>
 ---
 - **Programmer Analyst 1 Intern**, City Of Winnipeg.
 
 
 ## Training & Professional Development
+<p style="margin-top: -15px;"></p>
 ---
 - **Udemy**: Courses on Next.js and Neo4j Cypher
 - **Harvard University**: CS50 Introduction to Computer Science
@@ -53,12 +60,14 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 
 
 ## Volunteer Experience
+<p style="margin-top: -15px;"></p>
 ---
 - **The Salvation Army**, Winnipeg.
 - **Entry Program**, Winnipeg.
 
 
 ## Interests
+<p style="margin-top: -15px;"></p>
 ---
 Ethical Hacking, Reverse Engineering, LLM (Large Language Models), Deep Learning, Computer Vision, and AI.
 
