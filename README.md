@@ -29,8 +29,6 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 - **Full Stack Java Developer**, Canadian Mennonite University (ComIT), Winnipeg.
 
 ## Projects
-
-### - [Soccer Prediction](https://github.com/haddad142/soccer_prediction)
 ### - <a href="https://github.com/haddad142/soccer_prediction" target="_blank">Soccer Prediction</a>
 
 
