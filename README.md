@@ -42,7 +42,7 @@ Hello, I'm Atallah Haddad, a passionate Data Scientist and Machine Learning Deve
 <p style="margin-top: -15px;"></p>
 ---
 ### 1- <a href="https://github.com/haddad142/soccer_prediction" target="_blank">Soccer Prediction</a>
-### 2- <a href="https://github.com/haddad142/soccer_prediction" target="_blank">Stock Market Prediction</a>
+### 2- <a href="https://github.com/haddad142/Stock-Market-Prediction" target="_blank">Stock Market Prediction</a>
 
 ## Work Experience
 <p style="margin-top: -15px;"></p>
